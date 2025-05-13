@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "name": "Pizza",
+  "description": "Basta lami!",
+  "price": 100.0,
+  "formatted_price": "₱100.00"
+}
